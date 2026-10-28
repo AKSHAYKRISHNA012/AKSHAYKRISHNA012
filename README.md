@@ -68,7 +68,7 @@ fun_fact: "Turning coffee and curiosity into clean, maintainable code ☕⚡"
 
 ---
 
-### 📈 GitHub Analytics
+### 📈 GitHub Analytics & Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AKSHAYKRISHNA012&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Akshay's Stats" height="155" />
@@ -77,6 +77,10 @@ fun_fact: "Turning coffee and curiosity into clean, maintainable code ☕⚡"
 
 <div align="center" style="margin-top: 10px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AKSHAYKRISHNA012&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center" style="margin-top: 15px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AKSHAYKRISHNA012&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="95%" />
 </div>
 
 ---
@@ -101,6 +105,33 @@ fun_fact: "Turning coffee and curiosity into clean, maintainable code ☕⚡"
 | **Car Service Portal** | Service booking and workflow management web portal | `Full Stack` `APIs` `Database` | 🚀 Active |
 
 ---
+
+### 🎓 Background & Milestones
+
+<details>
+  <summary><b>💼 Work & Project Experience</b> <i>(Click to expand)</i></summary>
+  <br/>
+  <ul>
+    <li><b>Full Stack Developer</b> — Designing and building modern web applications with React, Node.js, and cloud backends.</li>
+    <li><b>Frontend Engineering</b> — Crafting responsive, mobile-first user interfaces with modern styling frameworks (TailwindCSS, CSS3).</li>
+    <li><b>Database & API Architecture</b> — Developing performant RESTful APIs and integrating SQL & NoSQL databases.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>🎓 Education & Learning Path</b> <i>(Click to expand)</i></summary>
+  <br/>
+  <ul>
+    <li><b>Degree / Higher Education</b> in Computer Science & Engineering.</li>
+    <li><b>Continuous Learning</b> — Active online specializations in modern full-stack development, cloud deployment, and system architecture.</li>
+  </ul>
+</details>
+
+---
+
+<div align="center" style="margin-top: 15px; margin-bottom: 10px;">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</div>
 
 <div align="center">
   <sub>Designed with ❤️ by <a href="https://github.com/AKSHAYKRISHNA012">Akshay Krishna</a></sub>
