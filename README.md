@@ -95,6 +95,10 @@ fun_fact: "Turning coffee and curiosity into clean, maintainable code ☕⚡"
   </picture>
 </div>
 
+<div align="center" style="margin-top: 15px;">
+  <img src="https://raw.githubusercontent.com/AKSHAYKRISHNA012/AKSHAYKRISHNA012/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution City" width="95%" />
+</div>
+
 ---
 
 ### 🌟 Featured Highlights
