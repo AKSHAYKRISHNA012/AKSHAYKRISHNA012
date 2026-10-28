@@ -14,6 +14,11 @@
   <a href="https://github.com/AKSHAYKRISHNA012"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
+<!-- GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AKSHAYKRISHNA012&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="Akshay's Trophies" />
+</p>
+
 </div>
 
 ---
@@ -72,6 +77,18 @@ fun_fact: "Turning coffee and curiosity into clean, maintainable code ☕⚡"
 
 <div align="center" style="margin-top: 10px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AKSHAYKRISHNA012&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🐍 Contribution Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AKSHAYKRISHNA012/AKSHAYKRISHNA012/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AKSHAYKRISHNA012/AKSHAYKRISHNA012/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/AKSHAYKRISHNA012/AKSHAYKRISHNA012/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 ---
