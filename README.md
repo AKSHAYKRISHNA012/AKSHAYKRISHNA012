@@ -103,10 +103,12 @@ fun_fact: "Turning coffee and curiosity into clean, maintainable code ☕⚡"
 
 ### 🌟 Featured Highlights
 
-| Project | Highlights | Tech Stack | Status |
+| Project | Highlights | Tech Stack | Link |
 | :--- | :--- | :--- | :---: |
-| **Product Listing Application** | Interactive catalog featuring filtering, search, and responsive UI | `React` `JavaScript` `CSS` | 🚀 Active |
-| **Car Service Portal** | Service booking and workflow management web portal | `Full Stack` `APIs` `Database` | 🚀 Active |
+| **[Hand Gesture Mouse Control](https://github.com/AKSHAYKRISHNA012/Hand-Gesture-Mouse-Control)** | Computer vision app using hand tracking & landmark detection to control mouse navigation | `Python` `OpenCV` `MediaPipe` | [🔗 View Repo](https://github.com/AKSHAYKRISHNA012/Hand-Gesture-Mouse-Control) |
+| **[Product Listing App](https://github.com/AKSHAYKRISHNA012/product-listing)** | Mobile cross-platform catalog application with smooth UI and search/filter architecture | `Flutter` `Dart` `Mobile` | [🔗 View Repo](https://github.com/AKSHAYKRISHNA012/product-listing) |
+| **[PayPilot AI](https://github.com/AKSHAYKRISHNA012/PayPilotAI)** | AI-driven financial and smart transaction automation management system | `AI/ML` `Full Stack` `APIs` | [🔗 View Repo](https://github.com/AKSHAYKRISHNA012/PayPilotAI) |
+| **[React Task Flow App](https://github.com/AKSHAYKRISHNA012/to-do-react-)** | Interactive productivity manager built with modern React, Vite, and live statistics | `React` `Vite` `JavaScript` | [🔗 View Repo](https://github.com/AKSHAYKRISHNA012/to-do-react-) |
 
 ---
 
