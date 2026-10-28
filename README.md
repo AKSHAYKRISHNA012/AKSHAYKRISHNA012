@@ -105,10 +105,10 @@ fun_fact: "Turning coffee and curiosity into clean, maintainable code ☕⚡"
 
 | Project | Highlights | Tech Stack | Link |
 | :--- | :--- | :--- | :---: |
+| **[WeatherLens](https://github.com/AKSHAYKRISHNA012/weather-lens)** | Glassmorphic real-time global weather dashboard with 7-day atmospheric forecasts | `JavaScript` `HTML5` `CSS3` `APIs` | [🔗 View Repo](https://github.com/AKSHAYKRISHNA012/weather-lens) |
+| **[DevAuthVault](https://github.com/AKSHAYKRISHNA012/dev-auth-vault)** | Production-grade JWT authentication microservice with bcrypt salting & rate-limiting | `Node.js` `Express` `JWT` `Security` | [🔗 View Repo](https://github.com/AKSHAYKRISHNA012/dev-auth-vault) |
+| **[Markdown Live Studio](https://github.com/AKSHAYKRISHNA012/markdown-live-studio)** | Split-screen real-time Markdown editor with live preview, telemetry, and export | `JavaScript` `Marked` `Highlight.js` | [🔗 View Repo](https://github.com/AKSHAYKRISHNA012/markdown-live-studio) |
 | **[Hand Gesture Mouse Control](https://github.com/AKSHAYKRISHNA012/Hand-Gesture-Mouse-Control)** | Computer vision app using hand tracking & landmark detection to control mouse navigation | `Python` `OpenCV` `MediaPipe` | [🔗 View Repo](https://github.com/AKSHAYKRISHNA012/Hand-Gesture-Mouse-Control) |
-| **[Product Listing App](https://github.com/AKSHAYKRISHNA012/product-listing)** | Mobile cross-platform catalog application with smooth UI and search/filter architecture | `Flutter` `Dart` `Mobile` | [🔗 View Repo](https://github.com/AKSHAYKRISHNA012/product-listing) |
-| **[PayPilot AI](https://github.com/AKSHAYKRISHNA012/PayPilotAI)** | AI-driven financial and smart transaction automation management system | `AI/ML` `Full Stack` `APIs` | [🔗 View Repo](https://github.com/AKSHAYKRISHNA012/PayPilotAI) |
-| **[React Task Flow App](https://github.com/AKSHAYKRISHNA012/to-do-react-)** | Interactive productivity manager built with modern React, Vite, and live statistics | `React` `Vite` `JavaScript` | [🔗 View Repo](https://github.com/AKSHAYKRISHNA012/to-do-react-) |
 
 ---
 
